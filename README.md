@@ -7,6 +7,8 @@ In this video, you will learn:
 How to set up your Python environment
 Installing and importing necessary libraries
 Writing the core code for the virtual paint application
+
+
 Implementing drawing functionality with OpenCV
 Adding interactive features to enhance the user experience
 Tools & Libraries:
@@ -15,3 +17,14 @@ Python
 OpenCV
 Numpy
 Subscribe to my channel for more tutorials and programming tips!
+
+First Install  Following Module In You Program
+
+opencv-python  
+pip install opencv-python
+
+numpy
+pip install numpy
+
+mediapipe
+pip install mediapipe
